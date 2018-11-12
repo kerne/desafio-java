@@ -37,7 +37,7 @@ https://concrete-solutions-challenge.herokuapp.com/desafio-java/app/login
 
 ## PROFILE USUARIO
 
-{{server}}/desafio-java/app/concrete/profile/53d46ddd-74cb-4f5d-9780-df8729f22b07
+https://concrete-solutions-challenge.herokuapp.com/desafio-java/app/concrete/profile/53d46ddd-74cb-4f5d-9780-df8729f22b07
 
 agregar en header 
 X-auth-token : {TOKEN GENERADO}
