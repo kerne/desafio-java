@@ -12,7 +12,6 @@ https://github.com/kerne/desafio-java
 
 https://concrete-solutions-challenge.herokuapp.com/desafio-java/app/register
 ```json
-JSON :
  {
         "name": "Juan Rodriguez",
         "email": "juan@rodriguez.org",
@@ -25,15 +24,16 @@ JSON :
             }
         ]
 }
-´´´
+```
 ## LOGIN USUARIO
 
 https://concrete-solutions-challenge.herokuapp.com/desafio-java/app/login
-
+```json
 {
     "username": "juan@rodriguez.org",
     "password" : "hunter2"
 }
+```
 
 ## PROFILE USUARIO
 
