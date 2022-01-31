@@ -11,7 +11,7 @@ https://github.com/kerne/desafio-java
 ## REGISTRAR USUARIO
 
 https://concrete-solutions-challenge.herokuapp.com/desafio-java/app/register
-
+´´´json
 JSON :
  {
         "name": "Juan Rodriguez",
@@ -25,7 +25,7 @@ JSON :
             }
         ]
 }
-
+´´´
 ## LOGIN USUARIO
 
 https://concrete-solutions-challenge.herokuapp.com/desafio-java/app/login
